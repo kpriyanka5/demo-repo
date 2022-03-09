@@ -4,4 +4,8 @@ some read text$
 
 ## subheader
 
-watdh the git abd in utube
+watch the git in utube
+
+## local development
+
+1.open index.html in your browser
